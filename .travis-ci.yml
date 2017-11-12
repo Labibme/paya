@@ -1,0 +1,7 @@
+{
+  "language": "gradle",
+  "group": "stable",
+  "dist": "trusty",
+  "os": "linux"
+}
+
